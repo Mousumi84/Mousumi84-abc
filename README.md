@@ -1,5 +1,5 @@
 ## <H1>Mousumi Das</H1> 
-[![Portfolio]](https://mousumi-das-portfolio-zeta.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mousumi-das-portfolio-zeta.vercel.app)
 [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/mousumidas482000)
 
 <!-- ## Hi there 👋 -->
