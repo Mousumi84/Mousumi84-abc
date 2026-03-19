@@ -1,4 +1,5 @@
-<H1>Mousumi Das</H1> [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mousumi-das-portfolio-zeta.vercel.app)
+<H1>Mousumi Das</H1> 
+[![Portfolio]}(https://mousumi-das-portfolio-zeta.vercel.app)
 <!-- ## Hi there 👋 -->
 
 <!--
