@@ -33,7 +33,7 @@ I enjoy turning ideas into real-world applications and have worked on projects l
 
 📚 Kitab Bazaar – Full-stack e-commerce web app [](ABCD)(https://e-commerce-kitab-bazaar.vercel.app/)
 
-✍️ Nexus – Blog & post sharing platform [](https://nexus-five-chi.vercel.app/)
+✍️ Nexus – Blog & post sharing platform []()(https://nexus-five-chi.vercel.app/)
 
 
 ## 🌐 Socials:
