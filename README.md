@@ -1,4 +1,4 @@
-<H1 style="color: blue;">Mousumi Das</H1>
+<H1>Mousumi Das</H1>
 <!-- ## Hi there 👋 -->
 
 <!--
