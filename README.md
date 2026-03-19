@@ -21,17 +21,20 @@ A passionate Full Stack Developer with hands-on experience in building scalable 
 I enjoy turning ideas into real-world applications and have worked on projects like an e-commerce platform and a blog-sharing application, focusing on clean UI, efficient backend systems, and smooth user experience.
 
 ●   🔭 Currently improving my skills in Data Structures & Algorithms
-
 ●   🌱 Learning advanced backend concepts & performance optimization
-
 ●   💡 Interested in building scalable and production-ready applications
-
 ●   🤝 Open to collaborations and learning opportunities
 
+
+## 🚀 Projects
+
+📚 Kitab Bazaar – Full-stack e-commerce web app [](https://e-commerce-kitab-bazaar.vercel.app/)
+✍️ Nexus – Blog & post sharing platform [](https://nexus-five-chi.vercel.app/)
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mousumi.das.original) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/mousumi-das-1273b6218)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mousumi-das-1273b6218)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mousumidas482000@gmail.com) 
 [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/mousumidas482000)
