@@ -1,5 +1,5 @@
 <H1>Mousumi Das</H1>
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <!--
 **Mousumi84/Mousumi84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,14 +21,18 @@ A passionate Full Stack Developer with hands-on experience in building scalable 
 I enjoy turning ideas into real-world applications and have worked on projects like an e-commerce platform and a blog-sharing application, focusing on clean UI, efficient backend systems, and smooth user experience.
 
 ●   🔭 Currently improving my skills in Data Structures & Algorithms
+
 ●   🌱 Learning advanced backend concepts & performance optimization
+
 ●   💡 Interested in building scalable and production-ready applications
+
 ●   🤝 Open to collaborations and learning opportunities
 
 
 ## 🚀 Projects
 
 📚 Kitab Bazaar – Full-stack e-commerce web app [](https://e-commerce-kitab-bazaar.vercel.app/)
+
 ✍️ Nexus – Blog & post sharing platform [](https://nexus-five-chi.vercel.app/)
 
 
