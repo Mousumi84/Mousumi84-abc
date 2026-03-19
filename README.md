@@ -1,5 +1,5 @@
 <H1>Mousumi Das</H1> 
-[![Portfolio]}(https://mousumi-das-portfolio-zeta.vercel.app)
+[![Portfolio]](https://mousumi-das-portfolio-zeta.vercel.app)
 <!-- ## Hi there 👋 -->
 
 <!--
