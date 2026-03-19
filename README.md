@@ -16,6 +16,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+A passionate Full Stack Developer with hands-on experience in building scalable web applications using the MERN stack (React.js, Node.js, Express.js, MongoDB).
+
+I enjoy turning ideas into real-world applications and have worked on projects like an e-commerce platform and a blog-sharing application, focusing on clean UI, efficient backend systems, and smooth user experience.
+
+●   🔭 Currently improving my skills in Data Structures & Algorithms
+
+●   🌱 Learning advanced backend concepts & performance optimization
+
+●   💡 Interested in building scalable and production-ready applications
+
+●   🤝 Open to collaborations and learning opportunities
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mousumi.das.original) 
