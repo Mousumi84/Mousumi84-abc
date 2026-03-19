@@ -1,4 +1,4 @@
-<H1>Mousumi Das</H1>
+<H1>Mousumi Das</H1> [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mousumi-das-portfolio-zeta.vercel.app)
 <!-- ## Hi there 👋 -->
 
 <!--
@@ -31,9 +31,9 @@ I enjoy turning ideas into real-world applications and have worked on projects l
 
 ## 🚀 Projects
 
-📚 Kitab Bazaar – Full-stack e-commerce web app []()(https://e-commerce-kitab-bazaar.vercel.app/)
+📚 Kitab Bazaar – Full-stack e-commerce web app []()(https://e-commerce-kitab-bazaar.vercel.app)
 
-✍️ Nexus – Blog & post sharing platform []()(https://nexus-five-chi.vercel.app/)
+✍️ Nexus – Blog & post sharing platform []()(https://nexus-five-chi.vercel.app)
 
 
 ## 🌐 Socials:
