@@ -31,7 +31,7 @@ I enjoy turning ideas into real-world applications and have worked on projects l
 
 ## 🚀 Projects
 
-📚 Kitab Bazaar – Full-stack e-commerce web app [abcd]()(https://e-commerce-kitab-bazaar.vercel.app/)
+📚 Kitab Bazaar – Full-stack e-commerce web app [🔗]()(https://e-commerce-kitab-bazaar.vercel.app/)
 
 ✍️ Nexus – Blog & post sharing platform []()(https://nexus-five-chi.vercel.app/)
 
