@@ -36,7 +36,7 @@ I enjoy turning ideas into real-world applications and have worked on projects l
 [[Kitab bazzar]](https://e-commerce-kitab-bazaar.vercel.app)
 
 ✍️ Nexus – Blog & post sharing platform 
-[[Nexux]](https://nexus-five-chi.vercel.app)
+[[Nexux]](https://nexus-blush-theta-34.vercel.app/)
 
 
 ## 🌐 Socials:
